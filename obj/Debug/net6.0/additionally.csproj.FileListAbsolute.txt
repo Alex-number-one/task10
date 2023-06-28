@@ -1,0 +1,15 @@
+C:\Users\AlexTheOne\Desktop\Task3\additionally\obj\Debug\net6.0\additionally.csproj.AssemblyReference.cache
+C:\Users\AlexTheOne\Desktop\Task3\additionally\obj\Debug\net6.0\additionally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexTheOne\Desktop\Task3\additionally\obj\Debug\net6.0\additionally.AssemblyInfoInputs.cache
+C:\Users\AlexTheOne\Desktop\Task3\additionally\obj\Debug\net6.0\additionally.AssemblyInfo.cs
+C:\Users\AlexTheOne\Desktop\Task3\additionally\obj\Debug\net6.0\additionally.csproj.CoreCompileInputs.cache
+C:\Users\AlexTheOne\Desktop\Task3\additionally\bin\Debug\net6.0\additionally.exe
+C:\Users\AlexTheOne\Desktop\Task3\additionally\bin\Debug\net6.0\additionally.deps.json
+C:\Users\AlexTheOne\Desktop\Task3\additionally\bin\Debug\net6.0\additionally.runtimeconfig.json
+C:\Users\AlexTheOne\Desktop\Task3\additionally\bin\Debug\net6.0\additionally.dll
+C:\Users\AlexTheOne\Desktop\Task3\additionally\bin\Debug\net6.0\additionally.pdb
+C:\Users\AlexTheOne\Desktop\Task3\additionally\obj\Debug\net6.0\additionally.dll
+C:\Users\AlexTheOne\Desktop\Task3\additionally\obj\Debug\net6.0\refint\additionally.dll
+C:\Users\AlexTheOne\Desktop\Task3\additionally\obj\Debug\net6.0\additionally.pdb
+C:\Users\AlexTheOne\Desktop\Task3\additionally\obj\Debug\net6.0\additionally.genruntimeconfig.cache
+C:\Users\AlexTheOne\Desktop\Task3\additionally\obj\Debug\net6.0\ref\additionally.dll
